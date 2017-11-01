@@ -12,7 +12,7 @@
 
 * 第一步
 
-        将fakedex模块和fakedex-plugin模块拷贝到项目中
+        将fakedex模块和fakedex-plugin模块拷贝到项目中,并在settings.gradle中进行配置
       
 * 第二步
         
